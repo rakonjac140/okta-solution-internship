@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@progress/kendo-data-query": "^1.5.5",
+    "@progress/kendo-drawing": "^1.16.0",
+    "@progress/kendo-licensing": "^1.2.1",
+    "@progress/kendo-react-animation": "^4.10.0",
+    "@progress/kendo-react-data-tools": "^4.10.0",
+    "@progress/kendo-react-dateinputs": "^4.10.0",
+    "@progress/kendo-react-dropdowns": "^4.10.0",
+    "@progress/kendo-react-grid": "^4.10.0",
+    "@progress/kendo-react-inputs": "^4.10.0",
+    "@progress/kendo-react-intl": "^4.10.0",
+    "@progress/kendo-theme-default": "^4.42.0",
+    "react-icons": "^4.3.1",
+    "react-input-number": "^5.0.19"
+  }
+}
